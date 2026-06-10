@@ -1,2 +1,2 @@
 # CodeAlpha_task1
-TASK 1
+CodeAlpha_TASK 1
